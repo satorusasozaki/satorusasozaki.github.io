@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a> and a **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo</a>. I make <a href="https://medium.com/@satorusasozaki/projects-6ecacfb94be#.pbkn2htb3" target="\_blank">iOS apps</a> for fun.
+I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a> and a **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo</a> based in the San Francisco Bay Area.
 
 ### I do
 
@@ -12,6 +12,20 @@ I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Va
 
 * The technologies I use are **Swift** / **Objective-C** / **C++** / **Golang** / **Python** / **git** / **vim** / **Jenkins**.
 
+### I teach
+
+* I hosted a workshop for iOS development for beginners at **Fem Tech UC Berkeley**. <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank"> iOS App Development Workshop at FEMTech UC Berkeley</a> is the written walkthrough.
+
+### I learn
+
+I have completed the following courses:
+
+* Introduction to C++
+* Advanced C++
+* Object Oriented Programming with C++
+* Data Structures and Algorithms with C++
+* Linux/Unix Administration
+* x86 Assembly Language
 
 ### Background
 
