@@ -19,6 +19,8 @@ I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Va
 
  * After that, I moved to the Bay Area in the end of 2014 to work as a software engineer in this awesome startup culture.
 
+### On the side
+
 * I draw **pictures** and do **Paperclip Art** for fun. All my works are on <a href="https://www.behance.net/sasozakisa2463" target="\_blank">behance</a>.
 
 * I blog on <a href="https://medium.com/@satorusasozaki" target="\_blank">medium</a>.
