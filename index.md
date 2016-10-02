@@ -18,7 +18,7 @@ I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Va
 
 ### I learn
 
-I have completed the following courses:
+I have completed the following related courses:
 
 * Introduction to C++
 * Advanced C++
