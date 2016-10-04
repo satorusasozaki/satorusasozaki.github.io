@@ -40,7 +40,6 @@ I have completed the following related courses:
 * I blog on <a href="https://medium.com/@satorusasozaki" target="\_blank">medium</a>.
 
 ## Satoru Sasozaki
-<a href="https://docs.google.com/document/d/1kyoaqB9KUGdLcaKL3HNdIEQjgUi08U36lCjiyPDcCnE/edit" target="\_blank">Resume</a> /
 <a href="mailto:sasozakisatoru@gmail.com">Email</a> /
 <a href="https://github.com/satorusasozaki">Github</a> /
 <a href="https://www.facebook.com/satoru.sasozaki" target="\_blank">Facebook</a> /
