@@ -14,7 +14,7 @@ I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Va
 
 ### I teach
 
-* I hosted a course for iOS development for beginners at **Fem Tech UC Berkeley**. <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank"> iOS App Development Workshop at FEMTech UC Berkeley</a> is the written walkthrough.
+* I hosted a course for iOS development for beginners at **Fem Tech UC Berkeley**. <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank"> iOS Development Course at FEMTech UC Berkeley</a> is the written walkthrough.
 
 ### I learn
 
