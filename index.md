@@ -2,19 +2,19 @@
 layout: default
 ---
 
-I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a> and a **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo</a> based in the San Francisco Bay Area.
+I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a> and an **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo</a> based in the San Francisco Bay Area.
 
 ### I do
 
-* I make **iOS apps** for fun and there are some apps that you can check out on <a href="https://medium.com/@satorusasozaki/projects-6ecacfb94be#.fjaqvpqig" target="\_blank">my project page</a>.
+* I make **iOS apps** for fun. There are some apps that you can check out on <a href="https://medium.com/@satorusasozaki/projects-6ecacfb94be#.fjaqvpqig" target="\_blank">my project page</a>.
 
-* I work as a **NLP engineer** intern at <a href="http://waygoapp.com/" target="\_blank">Waygo</a> working on expanding the machine translation program.
+* I work as an **NLP engineer** intern at <a href="http://waygoapp.com/" target="\_blank">Waygo</a> working on expanding the machine translation program.
 
 * The technologies I use are **Swift** / **Objective-C** / **C++** / **Golang** / **Python** / **git** / **vim** / **Jenkins**.
 
 ### I teach
 
-* I hosted a workshop for iOS development for beginners at **Fem Tech UC Berkeley**. <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank"> iOS App Development Workshop at FEMTech UC Berkeley</a> is the written walkthrough.
+* I hosted a course for iOS development for beginners at **Fem Tech UC Berkeley**. <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank"> iOS App Development Workshop at FEMTech UC Berkeley</a> is the written walkthrough.
 
 ### I learn
 
@@ -31,11 +31,11 @@ I have completed the following related courses:
 
 * I was born and raised in **Osaka, Japan**. I graduated from <a href="http://global.kwansei.ac.jp/" target="\_blank">Kwansei Gakuin University</a> with a BA in Linguistics and History.
 
- * After that, I moved to the Bay Area in the end of 2014 to work as a software engineer in this awesome startup culture.
+ * After that, I moved to the Bay Area at the end of 2014 to work as a software engineer in this awesome startup culture.
 
 ### On the side
 
-* I draw **pictures** and do **Paperclip Art** for fun. All my works are on <a href="https://www.behance.net/sasozakisa2463" target="\_blank">behance</a>.
+* I draw **pictures** and do **Paperclip Art** for fun. All my works are on <a href="https://www.behance.net/sasozakisa2463" target="\_blank">Behance</a>.
 
 * I blog on <a href="https://medium.com/@satorusasozaki" target="\_blank">medium</a>.
 
