@@ -18,7 +18,7 @@ I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Va
 
 ### I learn
 
-I have completed the following related courses:
+I have completed the following related courses in school:
 
 * Introduction to C++
 * Advanced C++
@@ -26,6 +26,8 @@ I have completed the following related courses:
 * Data Structures and Algorithms with C++
 * Linux/Unix Administration
 * x86 Assembly Language
+
+I also attend <a href="https://codepath.com/iosbootcamp" target="\_blank">CodePath iOS bootcamp</a>.
 
 ### Background
 
