@@ -6,11 +6,11 @@ I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Va
 
 ### I do
 
-* I make **iOS apps** for fun. There are some apps that you can check out on <a href="https://medium.com/@satorusasozaki/projects-6ecacfb94be#.fjaqvpqig" target="\_blank">my project page</a>.
+* I make **iOS apps** for fun. Check out <a href="https://medium.com/@satorusasozaki/projects-6ecacfb94be#.fjaqvpqig" target="\_blank">my project page</a>.
 
 * I work as an **NLP engineer** intern at <a href="http://waygoapp.com/" target="\_blank">Waygo</a> working on expanding the machine translation program.
 
-* The technologies I use are **Swift** / **Objective-C** / **C++** / **Golang** / **Python** / **git** / **vim** / **Jenkins**.
+* I use **Swift** / **Objective-C** / **C++** / **Golang** / **Python** / **git** / **vim** / **Jenkins**.
 
 ### I teach
 
@@ -37,7 +37,7 @@ I go to <a href="https://codepath.com/iosbootcamp" target="\_blank">CodePath iOS
 
 ### On the side
 
-* I draw **pictures** and do **Paperclip Art** for fun. All my works are on <a href="https://www.behance.net/sasozakisa2463" target="\_blank">Behance</a>.
+* I draw and do **Paperclip Art** for fun. All my works are on <a href="https://www.behance.net/sasozakisa2463" target="\_blank">Behance</a>.
 
 * I blog on <a href="https://medium.com/@satorusasozaki" target="\_blank">medium</a>.
 
@@ -51,3 +51,5 @@ I go to <a href="https://codepath.com/iosbootcamp" target="\_blank">CodePath iOS
 ![Satoru Sasozaki](https://s.gravatar.com/avatar/5c38cbcfdc7789126ddbd4b30fbe7b4a?s=200)
 
 This Jekyll theme is created by my friend [Shu Uesugi](http://chibicode.com/). Thanks, Shu-San!
+
+😎
