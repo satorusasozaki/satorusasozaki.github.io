@@ -27,7 +27,7 @@ I have completed the following related courses in school:
 * Linux/Unix Administration
 * x86 Assembly Language
 
-I also attend <a href="https://codepath.com/iosbootcamp" target="\_blank">CodePath iOS bootcamp</a>.
+I go to <a href="https://codepath.com/iosbootcamp" target="\_blank">CodePath iOS bootcamp</a>.
 
 ### Background
 
