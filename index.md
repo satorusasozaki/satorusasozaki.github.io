@@ -4,6 +4,9 @@ layout: default
 
 I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a> and an **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo</a> based in the San Francisco Bay Area.
 
+<img src="images/current_circle.png" alt="Satoru Sasozaki" style="width:200px;height:200px;">
+
+
 ### I do
 
 * I make **iOS apps** for fun. Check out <a href="https://medium.com/@satorusasozaki/projects-6ecacfb94be#.fjaqvpqig" target="\_blank">my project page</a>.
@@ -48,7 +51,7 @@ I go to <a href="https://codepath.com/iosbootcamp" target="\_blank">CodePath iOS
 <a href="https://www.linkedin.com/in/satorusasozaki" target="\_blank">Linkedin</a> /
 <a href="https://twitter.com/80sla" target="\_blank">Twitter</a>
 
-![Satoru Sasozaki](https://s.gravatar.com/avatar/5c38cbcfdc7789126ddbd4b30fbe7b4a?s=200)
+<!--![Satoru Sasozaki](https://s.gravatar.com/avatar/5c38cbcfdc7789126ddbd4b30fbe7b4a?s=200) -->
 
 This Jekyll theme is created by my friend [Shu Uesugi](http://chibicode.com/). Thanks, Shu-San!
 
