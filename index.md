@@ -59,7 +59,7 @@ I go to <a href="https://codepath.com/iosbootcamp" target="\_blank">CodePath iOS
 
 ２年制大学でコンピューターサイエンスを学びながら、現地の機械翻訳系スタートアップ <a href="http://waygoapp.com/" target="\_blank">Waygo</a> に自然言語処理エンジニアインターンとしてジョインし、機械学習アルゴリズムの開発に従事中。<br><br>
 
-開発者向けiOSプログラミングブートキャンプ <a href="https://codepath.com/iosbootcamp" target="\_blank"> CodePath iOS Development Bootcamp for existing developers</a> で出会ったJonathanとレストランレビューサービスを開発中。<br><br>
+開発者向けiOSプログラミングブートキャンプ <a href="https://codepath.com/iosbootcamp" target="\_blank"> CodePath iOS Development Bootcamp for existing developers</a> で出会ったパートナーとレストランレビューサービスを開発中。<br><br>
 
 大阪市西成区出身。<br><br>
 </font>
