@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a> and an **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo</a> based in the San Francisco Bay Area.
+I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a>, an **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo</a>, and a freelance **iOS developer** based in the San Francisco Bay Area.　<font size="3" color="#C0C0C0">（日本語の自己紹介が下にあります。）</font>
 
 <img src="images/current_circle.png" alt="Satoru Sasozaki" style="width:200px;height:200px;">
 
@@ -52,6 +52,17 @@ I go to <a href="https://codepath.com/iosbootcamp" target="\_blank">CodePath iOS
 <a href="https://twitter.com/80sla" target="\_blank">Twitter</a>
 
 <!--![Satoru Sasozaki](https://s.gravatar.com/avatar/5c38cbcfdc7789126ddbd4b30fbe7b4a?s=200) -->
+
+## 哘崎　悟 <font size="5" color="#C0C0C0">（さそざき さとる）</font>
+<font size="3">
+シリコンバレーのスタートアップで活躍するソフトウェアエンジニアに憧れ、関西学院大学文学部を卒業後、英語力・プログラミング経験ゼロで、2014年暮れにサンフランシスコに渡米。<br><br>
+
+２年制大学でコンピューターサイエンスを学びながら、現地の機械翻訳系スタートアップ <a href="http://waygoapp.com/" target="\_blank">Waygo</a> に自然言語処理エンジニアインターンとしてジョインし、機械学習アルゴリズムの開発に従事中。<br><br>
+
+開発者向けiOSプログラミングブートキャンプ <a href="https://codepath.com/iosbootcamp" target="\_blank"> CodePath iOS Development Bootcamp for existing developers</a> で出会ったJonathanとレストランレビューサービスを開発中。<br><br>
+
+大阪市西成区出身。<br><br>
+</font>
 
 This Jekyll theme is created by my friend [Shu Uesugi](http://chibicode.com/). Thanks, Shu-San!
 
