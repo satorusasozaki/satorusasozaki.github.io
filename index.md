@@ -57,7 +57,7 @@ I go to <a href="https://codepath.com/iosbootcamp" target="\_blank">CodePath iOS
 <font size="3">
 シリコンバレーのスタートアップで活躍するソフトウェアエンジニアに憧れ、関西学院大学文学部を卒業後、英語力・プログラミング経験ゼロで、2014年暮れにサンフランシスコに渡米。<br><br>
 
-２年制大学でコンピューターサイエンスを学びながら、現地の機械翻訳系スタートアップ <a href="http://waygoapp.com/" target="\_blank">Waygo</a> に自然言語処理エンジニアインターンとしてジョインし、機械学習アルゴリズムの開発に従事中。<br><br>
+2年制大学でコンピューターサイエンスを学びながら、<a href="http://500.co/" target="\_blank">500 Startups</a> 出身の機械翻訳系スタートアップ <a href="http://waygoapp.com/" target="\_blank">Waygo</a> に自然言語処理エンジニアインターンとして2016年5月にジョインし、機械学習アルゴリズムの開発を担当している。<br><br>
 
 開発者向けiOSプログラミングブートキャンプ <a href="https://codepath.com/iosbootcamp" target="\_blank"> CodePath iOS Development Bootcamp for existing developers</a> で出会ったパートナーとレストランレビューサービスを開発中。<br><br>
 
