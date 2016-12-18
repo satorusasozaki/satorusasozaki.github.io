@@ -55,13 +55,16 @@ I go to <a href="https://codepath.com/iosbootcamp" target="\_blank">CodePath iOS
 
 ## 哘崎　悟 <font size="5" color="#C0C0C0">（さそざき さとる）</font>
 <font size="3">
-シリコンバレーのスタートアップで活躍するソフトウェアエンジニアに憧れ、関西学院大学文学部を2014年に卒業後、英語力・プログラミング経験ゼロで、同年暮れにサンフランシスコに渡る。<br><br>
-
-2年制大学でコンピューターサイエンスを学びながら、<a href="http://500.co/" target="\_blank">500 Startups</a> 出身の機械翻訳系スタートアップ <a href="http://waygoapp.com/" target="\_blank">Waygo</a> に自然言語処理エンジニアインターンとして2016年5月にジョインし、機械学習アルゴリズムの開発を担当している。<br><br>
-
-開発者向けiOSプログラミングブートキャンプ <a href="https://codepath.com/iosbootcamp" target="\_blank"> CodePath iOS Development Bootcamp for existing developers</a> で出会ったパートナーとレストランレビューサービスを開発中。<br><br>
-
-大阪市西成区出身。<br><br>
+<p>
+シリコンバレーのスタートアップで活躍するソフトウェアエンジニアに憧れ、関西学院大学文学部を2014年に卒業後、英語力・プログラミング経験ゼロで、同年暮れにサンフランシスコに渡る。
+</p>
+<p>
+2年制大学でコンピューターサイエンスを学びながら、<a href="http://500.co/" target="\_blank">500 Startups</a> 出身の機械翻訳系スタートアップ <a href="http://waygoapp.com/" target="\_blank">Waygo</a> に自然言語処理エンジニアインターンとして2016年5月にジョインし、機械学習アルゴリズムの開発を担当している。
+</p>
+<p>
+開発者向けiOSプログラミングブートキャンプ <a href="https://codepath.com/iosbootcamp" target="\_blank"> CodePath iOS Development Bootcamp for existing developers</a> で出会ったパートナーとレストランレビューサービスを開発中。
+</p>
+大阪市西成区出身。
 </font>
 
 This Jekyll theme is created by my friend [Shu Uesugi](http://chibicode.com/). Thanks, Shu-San!
