@@ -30,8 +30,6 @@ I have completed the following related courses in school:
 * Linux/Unix Administration
 * x86 Assembly Language
 
-I go to <a href="https://codepath.com/iosbootcamp" target="\_blank">CodePath iOS bootcamp</a>.
-
 ### Background
 
 * I was born and raised in **Osaka, Japan**. I graduated from <a href="http://global.kwansei.ac.jp/" target="\_blank">Kwansei Gakuin University</a> with a BA in Linguistics and History.
