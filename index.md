@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a>, an **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo</a>, and a freelance **iOS developer** based in the San Francisco Bay Area.　<font size="3" color="#C0C0C0">（日本語の自己紹介が下にあります。）</font>
+I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a>, an **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo (500 Startups grad)</a>, and a freelance **iOS developer** based in the San Francisco Bay Area.　<font size="3" color="#C0C0C0">（日本語の自己紹介が下にあります。）</font>
 <br><br>
 <img src="images/current_circle.png" alt="Satoru Sasozaki" style="width:200px;height:200px;">
 
