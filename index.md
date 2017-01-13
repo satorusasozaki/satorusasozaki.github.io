@@ -2,16 +2,18 @@
 layout: default
 ---
 
-I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a>, an **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo (500 Startups grad)</a>, and a freelance **iOS developer** based in the San Francisco Bay Area.　<font size="3" color="#C0C0C0">（日本語の自己紹介が下にあります。）</font>
+I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a>, an **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo (500 Startups grad`)</a>, and a freelance **iOS developer** based in the San Francisco Bay Area.　<font size="3" color="#C0C0C0">（日本語の自己紹介が下にあります。）</font>
 <br><br>
 <img src="images/current_circle.png" alt="Satoru Sasozaki" style="width:200px;height:200px;">
 
 
 ### I do
 
+* I work as an **NLP engineer** intern at <a href="http://waygoapp.com/" target="\_blank">Waygo</a> working on expanding the machine translation program.
+
 * I make **iOS apps** for fun. Check out <a href="https://medium.com/@satorusasozaki/projects-6ecacfb94be#.fjaqvpqig" target="\_blank">my project page</a>.
 
-* I work as an **NLP engineer** intern at <a href="http://waygoapp.com/" target="\_blank">Waygo</a> working on expanding the machine translation program.
+* I blog on <a href="https://medium.com/@satorusasozaki" target="\_blank">medium</a>.
 
 * I use **Swift** / **Objective-C** / **C++** / **Golang** / **Python** / **git** / **vim** / **Jenkins**.
 
@@ -39,8 +41,6 @@ I have completed the following related courses in school:
 ### On the side
 
 * I draw and do **Paperclip Art** for fun. All my works are on <a href="https://www.behance.net/sasozakisa2463" target="\_blank">Behance</a>.
-
-* I blog on <a href="https://medium.com/@satorusasozaki" target="\_blank">medium</a>.
 
 ## Satoru Sasozaki
 <a href="mailto:sasozakisatoru@gmail.com">Email</a> /
