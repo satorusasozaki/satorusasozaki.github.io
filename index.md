@@ -2,12 +2,11 @@
 layout: default
 ---
 
-I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a>, an **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo (500 Startups grad`)</a>, and a freelance **iOS developer** based in the San Francisco Bay Area.　<font size="3" color="#C0C0C0">（日本語の自己紹介が下にあります。）</font>
+I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a>, an **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo (500 Startups grad)</a>, and a freelance **iOS developer** based in the San Francisco Bay Area.
 <br><br>
 <img src="images/current_circle.png" alt="Satoru Sasozaki" style="width:200px;height:200px;">
 
-
-### I do
+### I Do
 
 * I work as an **NLP engineer** intern at <a href="http://waygoapp.com/" target="\_blank">Waygo</a> working on expanding the machine translation program.
 
@@ -17,7 +16,7 @@ I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Va
 
 * I use **Swift** / **Objective-C** / **C++** / **Golang** / **Python** / **git** / **vim** / **Jenkins**.
 
-### I teach
+<!-- ### I teach
 
 * I hosted a course for iOS development for beginners at **Fem Tech UC Berkeley**. <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank"> iOS Development Course at FEMTech UC Berkeley</a> is the written walkthrough.
 
@@ -30,7 +29,7 @@ I have completed the following related courses in school:
 * Object Oriented Programming with C++
 * Data Structures and Algorithms with C++
 * Linux/Unix Administration
-* x86 Assembly Language
+* x86 Assembly Language -->
 
 ### Background
 
