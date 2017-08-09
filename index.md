@@ -2,11 +2,9 @@
 layout: default
 ---
 
-<!-- I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a>, an **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo (500 Startups grad)</a>, and a freelance **iOS developer** based in the San Francisco Bay Area. -->
-
 I'm a software engineer and a co-founder of <a href="" target="\_blank">Say</a>, an AR camera startup based in San Francisco.
 
-<br><br>
+<br>
 <img src="images/current_circle.png" alt="Satoru Sasozaki" style="width:200px;height:200px;">
 
 ### I Did
@@ -36,13 +34,13 @@ I'm a software engineer and a co-founder of <a href="" target="\_blank">Say</a>,
 * I draw and do **Paperclip Art** for fun. All my works are on <a href="https://www.behance.net/sasozakisa2463" target="\_blank">Behance</a>.
 
 ## Satoru Sasozaki
-<a href="mailto:sasozakisatoru@gmail.com">Email</a> /
-<a href="https://github.com/satorusasozaki">Github</a> /
-<a href="https://www.facebook.com/satoru.sasozaki" target="\_blank">Facebook</a> /
-<a href="https://www.linkedin.com/in/satorusasozaki" target="\_blank">Linkedin</a> /
-<a href="https://twitter.com/80sla" target="\_blank">Twitter</a>
-
-<!--![Satoru Sasozaki](https://s.gravatar.com/avatar/5c38cbcfdc7789126ddbd4b30fbe7b4a?s=200) -->
+* **Github:**&nbsp;&nbsp;&nbsp;<a href="https://github.com/satorusasozaki" target="\_blank">@satorusasozaki</a>
+* **Twitter:**&nbsp;&nbsp;<a href="https://twitter.com/satorusasozaki" target="\_blank">@satorusasozaki</a>
+* **Medium:**&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@satorusasozaki" target="\_blank">@satorusasozaki</a>
+* **Behance:**&nbsp;&nbsp;<a href="https://www.behance.net/satorusasozaki" target="\_blank">@satorusasozaki</a>
+* **Facebook:**&nbsp;<a href="https://www.facebook.com/satoru.sasozaki" target="\_blank">Satoru Sasozaki</a>
+* **LinkedIn:**&nbsp;<a href="https://www.linkedin.com/in/satorusasozaki" target="\_blank">Satoru Sasozaki</a>
+* **Email:**&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sasozakisatoru@gmail.com" target="\_blank">sasozakisatoru@gmail.com</a>
 
 ## 哘崎　悟 <font size="5" color="#C0C0C0">（さそざき さとる）</font>
 <font size="3">
