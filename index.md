@@ -4,7 +4,7 @@ layout: default
 
 <!-- I'm a **CS student** at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a>, an **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo (500 Startups grad)</a>, and a freelance **iOS developer** based in the San Francisco Bay Area. -->
 
-I'm a software engineer and a co-founder of <a href="" target="\_blank">Say</a>, an AR startup based in San Francisco.
+I'm a software engineer and a co-founder of <a href="" target="\_blank">Say</a>, an AR camera startup based in San Francisco.
 
 <br><br>
 <img src="images/current_circle.png" alt="Satoru Sasozaki" style="width:200px;height:200px;">
