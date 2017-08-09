@@ -3,7 +3,7 @@ layout: default
 ---
 <img class="roundrect" src="images/warm_rectangle.jpeg" alt="Satoru Sasozaki">
 
-I'm a software engineer and a co-founder of <a href="" target="\_blank">Say</a>, an AR camera startup based in San Francisco.
+I'm a software engineer and co-founder of <a href="" target="\_blank">Say</a>, an AR camera startup based in San Francisco.
 
 <br>
 <!-- <img src="images/current_circle.png" alt="Satoru Sasozaki" style="width:200px;height:200px;"> -->
