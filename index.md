@@ -15,18 +15,16 @@ I'm a software engineer and co-founder of <a href="" target="\_blank">Say</a>, a
 * I hosted a course for iOS development for beginners at **UC Berkeley**. <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank"> iOS Development Course at FEMTech UC Berkeley</a>.
 
 ### I'm a close friend of
-* **OpenGL shader language** for graphic processing
-* **C++** for OpenGL and graphic processing
 * **Swift** and **Objective-C** for iOS development
+* **OpenGL** and **AVFoundation** for iOS graphic processing
+* **Golang** and **C++** for machine learning
 * **Python** for web crawling and text processing
-* **Golang** for machine learning
-* **AVFoundation** and **Metal** for iOS graphics
 
 ### Background
 
 * I was born and raised in **Osaka, Japan**. I graduated from <a href="http://global.kwansei.ac.jp/" target="\_blank">Kwansei Gakuin University</a> with a BA in Linguistics and History.
 
-* After that, I moved to the San Francisco Bay Area and studied computer science at Diablo Valley College.
+* After that, I was so fascinated with the startup culture here in the SF Bay Area that I moved here and studied computer science at Diablo Valley College.
 
 ### On the side
 
