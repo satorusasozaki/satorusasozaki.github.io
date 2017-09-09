@@ -3,14 +3,14 @@ layout: default
 ---
 <img class="roundrect" src="images/warm_rectangle.jpeg" alt="Satoru Sasozaki">
 
-I'm a software engineer and co-founder of <a href="" target="\_blank">Say</a>, an AR camera startup based in San Francisco.
+I'm a cofounder <a href="" target="\_blank">@Say</a>, an AR camera startup based in San Francisco, and former machine translation engineer intern <a href="http://waygoapp.com/" target="\_blank">@Waygo</a>.
 
 <br>
 <!-- <img src="images/current_circle.png" alt="Satoru Sasozaki" style="width:200px;height:200px;"> -->
 
 ### I Did
 
-* I worked as an **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo (500 Startups grad)</a> working on expanding the statistic machine translation algorithms using machine learning.
+* I worked as an **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo (500 Startups alumni)</a> working on expanding the statistic machine translation algorithms using machine learning.
 
 * I hosted a course for iOS development for beginners at **UC Berkeley**. <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank"> iOS Development Course at FEMTech UC Berkeley</a>.
 
