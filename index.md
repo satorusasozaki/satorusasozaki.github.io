@@ -60,4 +60,5 @@ I'm a cofounder <a href="" target="\_blank">@Say</a>, an AR camera startup based
 
 This Jekyll theme is created by my friend [Shu Uesugi](http://chibicode.com/). Thanks, Shu-San!
 
-😎
+
+<center><sub> © Copyright 2017 - Satoru Sasozaki </sub></center>
