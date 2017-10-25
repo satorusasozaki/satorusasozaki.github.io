@@ -33,13 +33,14 @@ I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">@Eversumme
 * I draw and do **Paperclip Art** for fun. All my works are on <a href="https://www.behance.net/sasozakisa2463" target="\_blank">Behance</a>.
 
 ## Satoru Sasozaki
-* **Github:**&nbsp;&nbsp;&nbsp;<a href="https://github.com/satorusasozaki" target="\_blank">@satorusasozaki</a>
-* **Twitter:**&nbsp;&nbsp;<a href="https://twitter.com/satorusasozaki" target="\_blank">@satorusasozaki</a>
-* **Medium:**&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@satorusasozaki" target="\_blank">@satorusasozaki</a>
-* **Behance:**&nbsp;&nbsp;<a href="https://www.behance.net/satorusasozaki" target="\_blank">@satorusasozaki</a>
-* **Facebook:**&nbsp;<a href="https://www.facebook.com/satoru.sasozaki" target="\_blank">Satoru Sasozaki</a>
-* **LinkedIn:**&nbsp;<a href="https://www.linkedin.com/in/satorusasozaki" target="\_blank">Satoru Sasozaki</a>
-* **Email:**&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sasozakisatoru@gmail.com" target="\_blank">sasozakisatoru@gmail.com</a>
+* **Github:**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/satorusasozaki" target="\_blank">@satorusasozaki</a>
+* **Twitter:**&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/satorusasozaki" target="\_blank">@satorusasozaki</a>
+* **Medium:**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@satorusasozaki" target="\_blank">@satorusasozaki</a>
+* **Behance:**&nbsp;&nbsp;&nbsp;<a href="https://www.behance.net/satorusasozaki" target="\_blank">@satorusasozaki</a>
+* **Instagram:**&nbsp;<a href="https://www.instagram.com/satorusasozaki/" target="\_blank">@satorusasozaki</a>
+* **Facebook:**&nbsp;&nbsp;<a href="https://www.facebook.com/satoru.sasozaki" target="\_blank">Satoru Sasozaki</a>
+* **LinkedIn:**&nbsp;&nbsp;<a href="https://www.linkedin.com/in/satorusasozaki" target="\_blank">Satoru Sasozaki</a>
+* **Email:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sasozakisatoru@gmail.com" target="\_blank">sasozakisatoru@gmail.com</a>
 
 ## 哘崎　悟 <font size="5" color="#C0C0C0">（さそざき さとる）</font>
 <font size="3">
