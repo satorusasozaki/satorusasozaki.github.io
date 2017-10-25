@@ -24,7 +24,7 @@ I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">@Eversumme
 
 * I was born and raised in **Osaka, Japan**. I graduated from <a href="http://global.kwansei.ac.jp/" target="\_blank">Kwansei Gakuin University</a> with a BA in Linguistics and History.
 
-* After that, I was so fascinated with the startup culture here in the SF Bay Area that I moved here from Japan and then studied Computer Science at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a>.
+* After that, I was so fascinated with the startup culture here in the SF Bay Area that I moved here and then studied Computer Science at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a>.
 
 ### On the side
 
