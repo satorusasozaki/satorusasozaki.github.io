@@ -3,7 +3,7 @@ layout: default
 ---
 <img class="roundrect" src="images/warm_rectangle.jpeg" alt="Satoru Sasozaki">
 
-I'm a cofounder <a href="" target="\_blank">@Say</a>, an AR camera startup based in San Francisco, and former machine translation engineer intern <a href="http://waygoapp.com/" target="\_blank">@Waygo</a>.
+I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">@Eversummer</a>, an AR camera startup based in San Francisco, and former machine translation engineer intern <a href="http://waygoapp.com/" target="\_blank">@Waygo</a>.
 
 <br>
 <!-- <img src="images/current_circle.png" alt="Satoru Sasozaki" style="width:200px;height:200px;"> -->
@@ -16,7 +16,7 @@ I'm a cofounder <a href="" target="\_blank">@Say</a>, an AR camera startup based
 
 ### I'm a close friend of
 * **Swift** and **Objective-C** for iOS development
-* **OpenGL** and **AVFoundation** for iOS graphic processing
+* **OpenGL**, **Metal**, and **AVFoundation** for iOS graphic processing
 * **Golang** and **C++** for Machine Learning
 * **Python** for Web crawling and text processing
 
@@ -24,7 +24,7 @@ I'm a cofounder <a href="" target="\_blank">@Say</a>, an AR camera startup based
 
 * I was born and raised in **Osaka, Japan**. I graduated from <a href="http://global.kwansei.ac.jp/" target="\_blank">Kwansei Gakuin University</a> with a BA in Linguistics and History.
 
-* After that, I was so fascinated with the startup culture here in the SF Bay Area that I moved and studied Computer Science at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a>.
+* After that, I was so fascinated with the startup culture here in the SF Bay Area that I moved here from Japan and then studied Computer Science at <a href="http://www.dvc.edu/" target="\_blank">Diablo Valley College</a>.
 
 ### On the side
 
