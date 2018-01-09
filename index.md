@@ -62,4 +62,4 @@ I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">@Eversumme
 This Jekyll theme is created by my friend [Shu Uesugi](http://chibicode.com/). Thanks, Shu-San!
 
 
-<center><sub> © Copyright 2017 - Satoru Sasozaki </sub></center>
+<center><sub> © Copyright 2018 - Satoru Sasozaki </sub></center>
