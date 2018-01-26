@@ -3,7 +3,7 @@ layout: default
 ---
 <img class="roundrect" src="images/warm_rectangle.jpeg" alt="Satoru Sasozaki">
 
-I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">@Eversummer</a>, an AR camera startup based in San Francisco, and former machine translation engineer intern <a href="http://waygoapp.com/" target="\_blank">@Waygo</a>.
+I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">@eversummer</a>, an AR camera startup based in San Francisco, and a former machine translation engineer intern <a href="http://waygoapp.com/" target="\_blank">@waygo</a>.
 
 <br>
 <!-- <img src="images/current_circle.png" alt="Satoru Sasozaki" style="width:200px;height:200px;"> -->
