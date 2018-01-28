@@ -3,42 +3,57 @@ layout: default
 ---
 <img class="roundrect" src="images/warm_rectangle.jpeg" alt="Satoru Sasozaki">
 
-I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">@eversummer</a>, an AR camera startup based in San Francisco, and a former machine translation engineer intern <a href="http://waygoapp.com/" target="\_blank">@waygo</a>.
+I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">@eversummer</a>, an AR camera startup based in San Francisco.
 
-<br>
+<!-- I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">@eversummer</a>, an AR camera startup based in San Francisco, and a former machine translation engineer intern <a href="http://waygoapp.com/" target="\_blank">@waygo</a>. -->
+
+<!-- <br> -->
 <!-- <img src="images/current_circle.png" alt="Satoru Sasozaki" style="width:200px;height:200px;"> -->
 
-### I Did
+### Hello
 
-* I worked as an **NLP engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo (500 Startups alumni)</a> working on expanding the statistic machine translation algorithms using machine learning.
+* I was a former **natural language processing engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo (500 Startups alumni)</a> working on expanding the statistic machine translation algorithms using machine learning.
+* You can find **the course for iOS development** that I hosted at UC Berkeley <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank">here</a>.
 
-* I hosted a course for iOS development for beginners at **UC Berkeley**. <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank"> iOS Development Course at FEMTech UC Berkeley</a>.
+<!-- * I hosted a course for iOS development for beginners at **UC Berkeley**. <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank"> iOS Development Course at FEMTech UC Berkeley</a>. -->
 
 ### I'm a close friend of
 * **Swift** and **Objective-C** for iOS development
-* **OpenGL**, **Metal**, and **AVFoundation** for iOS graphic processing
+* **OpenGL**, **Metal**, **Vision**, and **AVFoundation**
 * **Golang** and **C++** for Machine Learning
-* **Python** for Web crawling and text processing
 
 ### Background
 
 * I was born and raised in Osaka, Japan. I had lived there all my life until I moved to San Francisco, California in 2014. I'm a dog person and can't touch my nose with my tongue yet.
 
-### On the side
+### What else?
 
 * I blog on <a href="https://medium.com/@satorusasozaki" target="\_blank">medium</a>.
-
-* I draw and do **Paperclip Art** for fun. All my works are on <a href="https://www.behance.net/sasozakisa2463" target="\_blank">Behance</a>.
+* I upload stuff I made on <a href="https://www.behance.net/sasozakisa2463" target="\_blank">Behance</a>.
+* I watch <a href="https://www.youtube.com/watch?v=zB7MichlL1k&t=6s&index=2&list=PL58M0TOpcTUqDa4ioXDuhFT95W0hs8lOt" targe="\_blank">Key & Peele</a>.
 
 ## Satoru Sasozaki
-* **Github:**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/satorusasozaki" target="\_blank">@satorusasozaki</a>
+
+<a href="https://github.com/satorusasozaki" target="\_blank">Github</a> / <a href="https://twitter.com/satorusasozaki" target="\_blank">Twitter</a> / <a href="https://www.linkedin.com/in/satorusasozaki" target="\_blank">LinkedIn</a> / <a href="https://medium.com/@satorusasozaki" target="\_blank">Medium</a> / <a href="https://www.behance.net/satorusasozaki" target="\_blank">Behance</a> / <a href="https://www.instagram.com/satorusasozaki/" target="\_blank">Instagram</a> / <a href="https://www.facebook.com/satoru.sasozaki" target="\_blank">Facebook</a> / <a href="mailto:sasozakisatoru@gmail.com" target="\_blank">sasozakisatoru@gmail.com</a>
+
+
+<!-- <a href="https://github.com/satorusasozaki" target="\_blank">Github</a>
+<a href="https://twitter.com/satorusasozaki" target="\_blank">Twitter</a>
+<a href="https://medium.com/@satorusasozaki" target="\_blank">Medium</a>
+<a href="https://www.behance.net/satorusasozaki" target="\_blank">Behance</a>
+<a href="https://www.instagram.com/satorusasozaki/" target="\_blank">Instagram</a>
+<a href="https://www.facebook.com/satoru.sasozaki" target="\_blank">Facebook</a>
+<a href="https://www.linkedin.com/in/satorusasozaki" target="\_blank">LinkedIn</a>
+* **Email:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sasozakisatoru@gmail.com" target="\_blank">sasozakisatoru@gmail.com</a> -->
+
+<!-- * **Github:**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/satorusasozaki" target="\_blank">@satorusasozaki</a>
 * **Twitter:**&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/satorusasozaki" target="\_blank">@satorusasozaki</a>
 * **Medium:**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@satorusasozaki" target="\_blank">@satorusasozaki</a>
 * **Behance:**&nbsp;&nbsp;&nbsp;<a href="https://www.behance.net/satorusasozaki" target="\_blank">@satorusasozaki</a>
 * **Instagram:**&nbsp;<a href="https://www.instagram.com/satorusasozaki/" target="\_blank">@satorusasozaki</a>
 * **Facebook:**&nbsp;&nbsp;<a href="https://www.facebook.com/satoru.sasozaki" target="\_blank">Satoru Sasozaki</a>
 * **LinkedIn:**&nbsp;&nbsp;<a href="https://www.linkedin.com/in/satorusasozaki" target="\_blank">Satoru Sasozaki</a>
-* **Email:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sasozakisatoru@gmail.com" target="\_blank">sasozakisatoru@gmail.com</a>
+* **Email:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sasozakisatoru@gmail.com" target="\_blank">sasozakisatoru@gmail.com</a> -->
 
 ## 哘崎　悟 <font size="5" color="#C0C0C0">（さそざき さとる）</font>
 <font size="3">
