@@ -10,7 +10,7 @@ I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">@eversumme
 <!-- <br> -->
 <!-- <img src="images/current_circle.png" alt="Satoru Sasozaki" style="width:200px;height:200px;"> -->
 
-### Hello
+### Hello, nice to meet you
 
 * I was a former **natural language processing engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo (500 Startups alumni)</a> working on expanding the statistic machine translation algorithms using machine learning.
 * You can find **the course for iOS development** that I hosted at UC Berkeley <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank">here</a>.
@@ -20,11 +20,11 @@ I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">@eversumme
 ### I'm a close friend of
 * **Swift** and **Objective-C** for iOS development
 * **OpenGL**, **Metal**, **Vision**, and **AVFoundation**
-* **Golang** and **C++** for Machine Learning
+* **Golang** and **C++** for Machine Learning and NLP
 
 ### Background
 
-* I was born and raised in Osaka, Japan. I had lived there all my life until I moved to San Francisco, California in 2014. I'm a dog person and can't touch my nose with my tongue yet.
+* I was born and raised in **Osaka, Japan** (Watch <a href="https://www.youtube.com/watch?v=Aq2HS2pviD8&t=48s" target="\_blank">this</a> if interested). I had lived there all my life until I moved to **San Francisco, California** in 2014. I'm a dog person and can't touch my nose with my tongue yet.
 
 ### What else?
 
