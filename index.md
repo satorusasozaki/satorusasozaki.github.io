@@ -36,26 +36,13 @@ I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">@eversumme
 
 <a href="https://github.com/satorusasozaki" target="\_blank">Github</a> / <a href="https://twitter.com/satorusasozaki" target="\_blank">Twitter</a> / <a href="https://www.linkedin.com/in/satorusasozaki" target="\_blank">LinkedIn</a> / <a href="https://medium.com/@satorusasozaki" target="\_blank">Medium</a> / <a href="https://www.behance.net/satorusasozaki" target="\_blank">Behance</a> / <a href="https://www.instagram.com/satorusasozaki/" target="\_blank">Instagram</a> / <a href="https://www.facebook.com/satoru.sasozaki" target="\_blank">Facebook</a> / <a href="mailto:sasozakisatoru@gmail.com" target="\_blank">sasozakisatoru@gmail.com</a>
 
+<ruby>
+<rb><font size="6"><strong>哘崎　悟</strong></font></rb>
+<rp>（</rp>
+<rt>さそざき　さとる</rt>
+<rp>）</rp>
+</ruby>
 
-<!-- <a href="https://github.com/satorusasozaki" target="\_blank">Github</a>
-<a href="https://twitter.com/satorusasozaki" target="\_blank">Twitter</a>
-<a href="https://medium.com/@satorusasozaki" target="\_blank">Medium</a>
-<a href="https://www.behance.net/satorusasozaki" target="\_blank">Behance</a>
-<a href="https://www.instagram.com/satorusasozaki/" target="\_blank">Instagram</a>
-<a href="https://www.facebook.com/satoru.sasozaki" target="\_blank">Facebook</a>
-<a href="https://www.linkedin.com/in/satorusasozaki" target="\_blank">LinkedIn</a>
-* **Email:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sasozakisatoru@gmail.com" target="\_blank">sasozakisatoru@gmail.com</a> -->
-
-<!-- * **Github:**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/satorusasozaki" target="\_blank">@satorusasozaki</a>
-* **Twitter:**&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/satorusasozaki" target="\_blank">@satorusasozaki</a>
-* **Medium:**&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@satorusasozaki" target="\_blank">@satorusasozaki</a>
-* **Behance:**&nbsp;&nbsp;&nbsp;<a href="https://www.behance.net/satorusasozaki" target="\_blank">@satorusasozaki</a>
-* **Instagram:**&nbsp;<a href="https://www.instagram.com/satorusasozaki/" target="\_blank">@satorusasozaki</a>
-* **Facebook:**&nbsp;&nbsp;<a href="https://www.facebook.com/satoru.sasozaki" target="\_blank">Satoru Sasozaki</a>
-* **LinkedIn:**&nbsp;&nbsp;<a href="https://www.linkedin.com/in/satorusasozaki" target="\_blank">Satoru Sasozaki</a>
-* **Email:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sasozakisatoru@gmail.com" target="\_blank">sasozakisatoru@gmail.com</a> -->
-
-## 哘崎　悟 <font size="5" color="#C0C0C0">（さそざき さとる）</font>
 <font size="3">
 <p>
 シリコンバレーのスタートアップで活躍するソフトウェアエンジニアに憧れ、関西学院大学文学部を2014年に卒業後、英語力・プログラミング経験ゼロで、サンフランシスコに渡りました。
