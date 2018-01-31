@@ -3,7 +3,7 @@ layout: default
 ---
 <img class="roundrect" src="images/warm_rectangle.jpeg" alt="Satoru Sasozaki">
 
-I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">@eversummer</a>, an AR camera startup based in San Francisco.
+I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">@eversummer</a>, an **AR camera startup** based in San Francisco.
 
 <!-- I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">@eversummer</a>, an AR camera startup based in San Francisco, and a former machine translation engineer intern <a href="http://waygoapp.com/" target="\_blank">@waygo</a>. -->
 
