@@ -12,7 +12,7 @@ I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">**@eversum
 
 ### Hello, nice to meet you
 
-* I was a former **natural language processing engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo (500 Startups alumni)</a> working on expanding the statistic machine translation algorithms using machine learning.
+* I was a former **natural language processing engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo </a> a 500 Startups alumni, working on expanding the statistic machine translation algorithms using machine learning.
 * You can find **the course for iOS development** that I hosted at UC Berkeley <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank">here</a>.
 
 <!-- * I hosted a course for iOS development for beginners at **UC Berkeley**. <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank"> iOS Development Course at FEMTech UC Berkeley</a>. -->
