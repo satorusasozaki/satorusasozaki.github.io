@@ -22,6 +22,10 @@ I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">**@eversum
 * **OpenGL**, **Metal**, **Vision**, and **AVFoundation**
 * **Golang** and **C++** for Machine Learning and NLP
 
+### Publications
+* <a href="http://blog.waygoapp.com/why-evaluating-machine-translation-quality-is-hard/" target="\_blank">Why Evaluating Machine Translation Quality is Hard</a> (Sep, 2016)
+* <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f" target="\_blank">Walkthrough of the iOS dev lecture at UC Berkeley</a> (Apr, 2016)
+
 ### Background
 
 * I was born and raised in **Osaka, Japan** (Watch <a href="https://www.youtube.com/watch?v=Aq2HS2pviD8&t=48s" target="\_blank">this</a> if interested). I had lived there all my life until I moved to **San Francisco, California** in 2014. I'm a dog person and can't touch my nose with my tongue yet.
