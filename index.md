@@ -23,8 +23,8 @@ I'm a cofounder <a href="https://www.eversummer.io/" target="\_blank">**@eversum
 * **Golang** and **C++** for Machine Learning and NLP
 
 ### Publications
-* <a href="http://blog.waygoapp.com/why-evaluating-machine-translation-quality-is-hard/" target="\_blank">Why Evaluating Machine Translation Quality is Hard</a> (Sep, 2016)
-* <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f" target="\_blank">Walkthrough of the iOS dev lecture at UC Berkeley</a> (Apr, 2016)
+1. <a href="http://blog.waygoapp.com/why-evaluating-machine-translation-quality-is-hard/" target="\_blank">Why Evaluating Machine Translation Quality is Hard</a> (Sep, 2016)
+2. <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f" target="\_blank">Walkthrough of the iOS app development lecture at UC Berkeley</a> (Apr, 2016)
 
 ### Awards
 * Won the second prize at Business Plan Pitch Contest at Kwansei Gakuin University (Nov, 2013)
