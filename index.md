@@ -9,7 +9,7 @@ I was born and raised in <a href="https://www.youtube.com/watch?v=Aq2HS2pviD8&t=
 
 <strong><font size="4">哘崎 悟</font></strong><br><font size="3">
 さっそです。シリコンバレーで世界を変えるプロダクトを作るために、英語力・プログラミング経験ゼロで、大学卒業後サンフランシスコに渡りました。渡米してからの3年間はこちらにまとめています。<br>
-<a href="" target="\_blank">『サンフランシスコで創業したスタートアップを解散した話』</a>
+<a href="https://note.mu/sa10r/n/n996cbc7eb0cb" target="\_blank">『サンフランシスコで創業したスタートアップを解散した話』</a>
 </font>
 <br><br>
 <a href="https://twitter.com/satorusasozaki">Twitter</a> / <a href="https://www.linkedin.com/in/satorusasozaki/">LinkedIn</a> / <a href="https://medium.com/@satorusasozaki">Medium</a> / satoru@sasozaki.com
