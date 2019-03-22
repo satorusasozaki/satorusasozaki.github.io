@@ -2,6 +2,7 @@
 layout: default
 ---
 <img class="roundrect" src="images/warm_rectangle.jpeg" alt="Satoru Sasozaki">
+<meta name="p:domain_verify" content="baead29bca41d8a04882e12d264019d6"/>
 
 <strong><font size="5">Satoru Sasozaki</font></strong><br>
 Hi, I'm Sato. I'm the co-founder & CEO of a San Francisco based startup. Previously, I worked at @<a href="http://blog.waygoapp.com/why-evaluating-machine-translation-quality-is-hard/" target="\_blank">waygo</a> as an NLP engineer.
