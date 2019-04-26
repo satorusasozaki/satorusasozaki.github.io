@@ -3,6 +3,7 @@ layout: default
 ---
 <img class="roundrect" src="images/warm_rectangle.jpeg" alt="Satoru Sasozaki">
 <meta name="p:domain_verify" content="baead29bca41d8a04882e12d264019d6"/>
+<script src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.1/dist/mailtoui-min.js"></script>
 
 <strong><font size="5">Satoru Sasozaki</font></strong><br>
 Hi, I'm Sato. I'm the co-founder & CEO of a San Francisco based startup. Previously, I worked at @<a href="http://blog.waygoapp.com/why-evaluating-machine-translation-quality-is-hard/" target="\_blank">waygo</a> as an NLP engineer.
@@ -13,7 +14,8 @@ I was born and raised in <a href="https://www.youtube.com/watch?v=Aq2HS2pviD8&t=
 <a href="https://note.mu/sa10r/n/n996cbc7eb0cb" target="\_blank">『サンフランシスコで創業したスタートアップを解散した話』</a>
 </font>
 <br><br>
-<a href="https://twitter.com/satorusasozaki">Twitter</a> / <a href="https://www.linkedin.com/in/satorusasozaki/">LinkedIn</a> / <a href="https://medium.com/@satorusasozaki">Medium</a> / satoru@sasozaki.com
+<a href="https://twitter.com/satorusasozaki">Twitter</a> / <a href="https://www.linkedin.com/in/satorusasozaki/">LinkedIn</a> / <a href="https://medium.com/@satorusasozaki">Medium</a> / <a class="mailtoui" href="mailto:satoru@sasozaki.com">Email</a>
+
 
 <center><sub>This Jekyll theme is created by <a href="http://chibicode.com/" target="\_blank">Shu Uesugi</a>. Thanks, Shu-San!</sub></center>
 
