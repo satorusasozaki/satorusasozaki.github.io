@@ -14,7 +14,7 @@ I was born and raised in <a href="https://www.youtube.com/watch?v=Aq2HS2pviD8&t=
 <a href="https://note.mu/sa10r/n/n996cbc7eb0cb" target="\_blank">『サンフランシスコで創業したスタートアップを解散した話』</a>
 </font>
 <br><br>
-<a href="https://twitter.com/satorusasozaki">Twitter</a> / <a href="https://www.linkedin.com/in/satorusasozaki/">LinkedIn</a> / <a href="https://medium.com/@satorusasozaki">Medium</a> / <a class="mailtoui" href="mailto:satoru@sasozaki.com">Email</a>
+<a href="https://twitter.com/satorusasozaki">Twitter</a> / <a href="https://www.linkedin.com/in/satorusasozaki/">LinkedIn</a> / <a href="https://medium.com/@satorusasozaki">Medium</a> / <a class="mailtoui" href="mailto:satoru@sasozaki.com">Email</a>aaa
 
 
 <center><sub>This Jekyll theme is created by <a href="http://chibicode.com/" target="\_blank">Shu Uesugi</a>. Thanks, Shu-San!</sub></center>
