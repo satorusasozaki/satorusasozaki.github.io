@@ -6,11 +6,11 @@ layout: default
 <script src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.1/dist/mailtoui-min.js"></script>
 
 <strong><font size="5">Satoru Sasozaki</font></strong><br>
-Hi, I'm Sato. I'm the co-founder & CEO of a San Francisco based startup. Previously, I worked at @<a href="http://blog.waygoapp.com/why-evaluating-machine-translation-quality-is-hard/" target="\_blank">waygo</a> as an NLP engineer.
-I was born and raised in <a href="https://www.youtube.com/watch?v=Aq2HS2pviD8&t=48s" target="\_blank">Osaka</a>, Japan and moved to San Francisco, California in 2014.
+Hi, I'm Sato. I'm working on something new to bring family and friends together. Previously, I worked at @<a href="http://blog.waygoapp.com/why-evaluating-machine-translation-quality-is-hard/" target="\_blank">waygo</a> as an NLP engineer.
+Born and raised in <a href="https://www.youtube.com/watch?v=Aq2HS2pviD8&t=48s" target="\_blank">Osaka</a>, Japan. Currently based in San Francisco, California.
 
 <strong><font size="4">哘崎 悟</font></strong><br><font size="3">
-さっそです。シリコンバレーで世界を変えるプロダクトを作るために、英語力・プログラミング経験ゼロで、大学卒業後サンフランシスコに渡りました。渡米してからの3年間はこちらにまとめています。<br>
+さっそです。世界中の人に貢献できるプロダクトを目指してカリフォルニア・サンフランシスコで奮闘中です。<br>
 <a href="https://note.mu/sa10r/n/n996cbc7eb0cb" target="\_blank">『サンフランシスコで創業したスタートアップを解散した話』</a>
 </font>
 <br><br>
