@@ -12,12 +12,11 @@ Born and raised in <a href="https://www.youtube.com/watch?v=Aq2HS2pviD8&t=48s" t
 <strong><font size="4">哘崎 悟</font></strong><br><font size="3">
 さっそです。世界中の人に貢献できるプロダクトを目指してカリフォルニア・サンフランシスコで奮闘中です。<br>
 <a href="https://note.mu/sa10r/n/n996cbc7eb0cb" target="\_blank">『サンフランシスコで創業したスタートアップを解散した話』</a>
+<a href="https://note.com/sa10r/n/n2e88032906cb" target="\_blank">　『サンフランシスコでスタートアップに再挑戦する話』 </a>
 </font>
 <br><br>
-<a href="https://twitter.com/satorusasozaki">Twitter</a> / <a href="https://www.linkedin.com/in/satorusasozaki/">LinkedIn</a> / <a href="https://medium.com/@satorusasozaki">Medium</a> / <a class="mailtoui" href="mailto:satoru@sasozaki.com">Email</a>
-
+<a href="https://twitter.com/satorusasozaki">Twitter</a> / <a href="https://medium.com/@satorusasozaki">Medium</a>
 
 <center><sub>This Jekyll theme is created by <a href="http://chibicode.com/" target="\_blank">Shu Uesugi</a>. Thanks, Shu-San!</sub></center>
 
-
-<center><sub> ©2019 Satoru Sasozaki </sub></center>
+<center><sub> ©2020 Satoru Sasozaki </sub></center>
