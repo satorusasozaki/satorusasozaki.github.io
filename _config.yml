@@ -8,3 +8,5 @@ markdown: kramdown
 exclude: ["README.md"]
 sass:
   style: compressed
+google_analytics: UA-63530241-3
+
