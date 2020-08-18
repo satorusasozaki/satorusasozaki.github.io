@@ -6,7 +6,7 @@ layout: default
 <script src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.1/dist/mailtoui-min.js"></script>
 
 <strong><font size="5">Satoru Sasozaki</font></strong><br>
-Hi, I'm Sato. I'm building a shared journal to bring long distance family and friends together @<a href="https://www.getwaffle.app/" target="\_blank">getwaffleapp</a>. Previously, I worked at @<a href="http://blog.waygoapp.com/why-evaluating-machine-translation-quality-is-hard/" target="\_blank">waygo</a> as an NLP engineer intern.
+I'm building a shared journal to bring long distance family and friends closer together @<a href="https://www.getwaffle.app/" target="\_blank">getwaffleapp</a>. Previously, I worked at @<a href="http://blog.waygoapp.com/why-evaluating-machine-translation-quality-is-hard/" target="\_blank">waygo</a> as an NLP engineer intern.
 Born and raised in <a href="https://www.youtube.com/watch?v=Aq2HS2pviD8&t=48s" target="\_blank">Osaka</a>, Japan. Currently based in San Francisco, California.
 
 <strong><font size="4">哘崎 悟</font></strong><br><font size="3">
@@ -15,7 +15,7 @@ Born and raised in <a href="https://www.youtube.com/watch?v=Aq2HS2pviD8&t=48s" t
 * <font size="3"><a href="https://note.com/sa10r/n/n2e88032906cb" target="\_blank">サンフランシスコでスタートアップに再挑戦する話</a></font>
 
 <br>
-<a href="https://twitter.com/satorusasozaki">Twitter</a> / <a href="https://medium.com/@satorusasozaki">Medium</a>
+<a href="https://twitter.com/ssasozaki">Twitter</a> / <a href="https://medium.com/@satorusasozaki">Medium</a> / <a href="https://twitter.com/satorusasozaki"> 日本語ツイッター </a>
 
 <center><sub>This Jekyll theme is created by <a href="http://chibicode.com/" target="\_blank">Shu Uesugi</a>. Thanks, Shu-San!</sub></center>
 
