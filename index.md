@@ -14,10 +14,8 @@ Born and raised in <a href="https://www.youtube.com/watch?v=Aq2HS2pviD8&t=48s" t
 * <font size="3"><a href="https://note.mu/sa10r/n/n996cbc7eb0cb" target="\_blank">サンフランシスコで創業したスタートアップを解散した話</a></font>
 * <font size="3"><a href="https://note.com/sa10r/n/n2e88032906cb" target="\_blank">サンフランシスコでスタートアップに再挑戦する話</a></font>
 
-<iframe src="https://remotehour.com/widget/gNyZS4Y4a3UsxpFceMFKv5Ihg5F3?inline=true" width="100%" height="600" marginwidth="0" marginheight="0" frameborder="0" style="border:none;" allow="microphone; camera"></iframe>
-
 <br>
-<a href="https://twitter.com/ssasozaki">Twitter</a> / <a href="https://medium.com/@satorusasozaki">Medium</a> / <font size="3"><a href="https://twitter.com/satorusasozaki"> 日本語ツイッター </a></font>
+<a href="https://twitter.com/ssasozaki">Twitter</a> / <a href="https://medium.com/@satorusasozaki">Medium</a> / <font size="3"><a href="https://twitter.com/satorusasozaki"> ツイッター </a></font>
 
 <center><sub>This Jekyll theme is created by <a href="http://chibicode.com/" target="\_blank">Shu Uesugi</a>. Thanks, Shu-San!</sub></center>
 
