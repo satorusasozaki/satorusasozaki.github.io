@@ -6,7 +6,7 @@ layout: default
 <script src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.1/dist/mailtoui-min.js"></script>
 
 <strong><font size="5">Satoru Sasozaki</font></strong><br>
-Hey, I am building a shared journal to bring long distance family and friends closer together @<a href="https://www.getwaffle.app/" target="\_blank">getwaffleapp</a>. Previously, I worked at @<a href="http://blog.waygoapp.com/why-evaluating-machine-translation-quality-is-hard/" target="\_blank">waygo</a> as an NLP engineer intern.
+Hey, I am building a group journal app to bring long-distance family and friends closer together @<a href="https://www.wafflejournal.com/" target="\_blank">wafflejournal</a>. Previously, I worked at @<a href="http://blog.waygoapp.com/why-evaluating-machine-translation-quality-is-hard/" target="\_blank">waygo</a> as an NLP engineer intern.
 Born and raised in <a href="https://www.youtube.com/watch?v=Aq2HS2pviD8&t=48s" target="\_blank">Osaka</a>, Japan. Currently based in San Francisco, California.
 
 <strong><font size="4">哘崎 悟</font></strong><br><font size="3">
