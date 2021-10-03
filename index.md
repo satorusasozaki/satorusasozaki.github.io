@@ -6,10 +6,10 @@ layout: default
 <script src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.1/dist/mailtoui-min.js"></script>
 
 <strong><font size="5">Satoru Sasozaki</font></strong><br>
-I am the creator of <a href="https://www.wafflejournal.com/" target="\_blank">@wafflejournal</a> (<a href="https://www.adweek.com/media/snap-introduces-the-4th-class-in-its-yellow-accelerator-program/" target="\_blank">Snap Yellow '21</a>), a group journal app to stay closer to the people you care about most. 
+I am the creator of <a href="https://www.wafflejournal.com/" target="\_blank">@wafflejournal</a> (<a href="https://www.adweek.com/media/snap-introduces-the-4th-class-in-its-yellow-accelerator-program/" target="\_blank">Snap Yellow '21</a>), a group journaling app to stay closer to the people you care about most. 
 <br>
-📍 Brooklyn, New York
-🏠 Osaka, Japan
+📍 Currently based in Brooklyn, New York<br>
+🏠 Born and raised in Osaka, Japan
 
 
 <strong><font size="4">哘崎 悟</font></strong><br><font size="3">
@@ -17,14 +17,6 @@ I am the creator of <a href="https://www.wafflejournal.com/" target="\_blank">@w
 * <font size="3"><a href="https://note.mu/sa10r/n/n996cbc7eb0cb" target="\_blank">サンフランシスコで創業したスタートアップを解散した話</a></font>
 * <font size="3"><a href="https://note.com/sa10r/n/n2e88032906cb" target="\_blank">サンフランシスコでスタートアップに再挑戦する話</a></font>
 * <font size="3"><a href="https://signal.diamond.jp/articles/-/673" target="\_blank">Snapに認められた日本人起業家、交換日記アプリ「Waffle」で世界に挑む</a></font>
-
-<br>
-その他記事
-
-<br></font>
-* <font size="3"><a href="https://signal.diamond.jp/articles/-/673" target="\_blank">Snapに認められた日本人起業家、交換日記アプリ「Waffle」で世界に挑む</a></font>
-* <font size="3"><a href="https://note.com/sa10r/n/n2e88032906cb" target="\_blank">サンフランシスコでスタートアップに再挑戦する話</a></font>
-
 
 <br>
 <a href="https://twitter.com/ssasozaki">Twitter</a> / <a href="https://medium.com/@satorusasozaki">Medium</a> / <font size="3"><a href="https://twitter.com/satorusasozaki"> ツイッター </a></font>
