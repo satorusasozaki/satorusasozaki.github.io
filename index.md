@@ -24,4 +24,4 @@ I am the creator of <a href="https://www.wafflejournal.com/" target="\_blank">@w
 
 <center><sub>This Jekyll theme is created by <a href="http://chibicode.com/" target="\_blank">Shu Uesugi</a>. Thanks, Shu-San!</sub></center>
 
-<center><sub> ©2020 Satoru Sasozaki </sub></center>
+<center><sub> ©2021 Satoru Sasozaki </sub></center>
