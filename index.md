@@ -12,8 +12,8 @@ I am the creator of <a href="https://www.wafflejournal.com/" target="\_blank">@w
 🏠 Osaka, Japan
 
 <br>
-* <font size="3"><a href="https://www.adweek.com/media/snap-introduces-the-4th-class-in-its-yellow-accelerator-program/" target="\_blank">Snap Introduces the 4th Class in Its Yellow Accelerator Program</a></font>
-* <font size="3"><a href="https://dot.la/snap-yellow-accelerator-2021-2650557659.html" target="\_blank">Meet Snap's 2021 Accelerator Class of Startups</a></font>
+* <a href="https://www.adweek.com/media/snap-introduces-the-4th-class-in-its-yellow-accelerator-program/" target="\_blank">Snap Introduces the 4th Class in Its Yellow Accelerator Program</a>
+* <a href="https://dot.la/snap-yellow-accelerator-2021-2650557659.html" target="\_blank">Meet Snap's 2021 Accelerator Class of Startups</a>
 
 <strong><font size="4">哘崎 悟</font></strong><br><font size="3">
 さっそです。世界中の人に貢献できるプロダクトを目指してカリフォルニア・サンフランシスコで奮闘中です。これまでやってきたことは以下のブログにまとめています。<br></font>
