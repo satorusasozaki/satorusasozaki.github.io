@@ -13,6 +13,15 @@ Born and raised in <a href="https://www.youtube.com/watch?v=Aq2HS2pviD8&t=48s" t
 さっそです。世界中の人に貢献できるプロダクトを目指してカリフォルニア・サンフランシスコで奮闘中です。これまでやってきたことは以下のブログにまとめています。<br></font>
 * <font size="3"><a href="https://note.mu/sa10r/n/n996cbc7eb0cb" target="\_blank">サンフランシスコで創業したスタートアップを解散した話</a></font>
 * <font size="3"><a href="https://note.com/sa10r/n/n2e88032906cb" target="\_blank">サンフランシスコでスタートアップに再挑戦する話</a></font>
+* <font size="3"><a href="https://signal.diamond.jp/articles/-/673" target="\_blank">Snapに認められた日本人起業家、交換日記アプリ「Waffle」で世界に挑む</a></font>
+
+<br>
+その他記事
+
+<br></font>
+* <font size="3"><a href="https://signal.diamond.jp/articles/-/673" target="\_blank">Snapに認められた日本人起業家、交換日記アプリ「Waffle」で世界に挑む</a></font>
+* <font size="3"><a href="https://note.com/sa10r/n/n2e88032906cb" target="\_blank">サンフランシスコでスタートアップに再挑戦する話</a></font>
+
 
 <br>
 <a href="https://twitter.com/ssasozaki">Twitter</a> / <a href="https://medium.com/@satorusasozaki">Medium</a> / <font size="3"><a href="https://twitter.com/satorusasozaki"> ツイッター </a></font>
