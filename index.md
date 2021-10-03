@@ -8,9 +8,12 @@ layout: default
 <strong><font size="5">Satoru Sasozaki</font></strong><br>
 I am the creator of <a href="https://www.wafflejournal.com/" target="\_blank">@wafflejournal</a> (<a href="https://www.adweek.com/media/snap-introduces-the-4th-class-in-its-yellow-accelerator-program/" target="\_blank">Snap Yellow '21</a>), a group journaling app to stay closer to the people you care about most. 
 <br>
-📍 Currently based in Brooklyn, New York<br>
-🏠 Born and raised in Osaka, Japan
+📍 Brooklyn, New York<br>
+🏠 Osaka, Japan
 
+<br>
+* <font size="3"><a href="https://www.adweek.com/media/snap-introduces-the-4th-class-in-its-yellow-accelerator-program/" target="\_blank">Snap Introduces the 4th Class in Its Yellow Accelerator Program</a></font>
+* <font size="3"><a href="https://dot.la/snap-yellow-accelerator-2021-2650557659.html" target="\_blank">Meet Snap's 2021 Accelerator Class of Startups</a></font>
 
 <strong><font size="4">哘崎 悟</font></strong><br><font size="3">
 さっそです。世界中の人に貢献できるプロダクトを目指してカリフォルニア・サンフランシスコで奮闘中です。これまでやってきたことは以下のブログにまとめています。<br></font>
