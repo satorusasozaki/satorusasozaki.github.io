@@ -10,8 +10,6 @@ I am the creator of <a href="https://www.wafflejournal.com/" target="\_blank">@w
 <br>
 📍 Brooklyn, New York<br>
 🏠 Osaka, Japan
-
-<br>
 * <a href="https://www.adweek.com/media/snap-introduces-the-4th-class-in-its-yellow-accelerator-program/" target="\_blank">Snap Introduces the 4th Class in Its Yellow Accelerator Program</a>
 * <a href="https://dot.la/snap-yellow-accelerator-2021-2650557659.html" target="\_blank">Meet Snap's 2021 Accelerator Class of Startups</a>
 
