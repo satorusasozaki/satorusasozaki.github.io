@@ -14,7 +14,7 @@ I am the creator of <a href="https://www.wafflejournal.com/" target="\_blank">@w
 * <a href="https://dot.la/snap-yellow-accelerator-2021-2650557659.html" target="\_blank">Meet Snap's 2021 Accelerator Class of Startups</a>
 
 <strong><font size="4">哘崎 悟</font></strong><br><font size="3">
-さっそです。世界中の人に貢献できるプロダクトを目指してカリフォルニア・サンフランシスコで奮闘中です。これまでやってきたことは以下のブログにまとめています。<br></font>
+さっそです。世界中の人に貢献できるサービスを目指してアメリカで奮闘中です。これまでやってきたことは以下にまとめています。<br></font>
 * <font size="3"><a href="https://note.mu/sa10r/n/n996cbc7eb0cb" target="\_blank">サンフランシスコで創業したスタートアップを解散した話</a></font>
 * <font size="3"><a href="https://note.com/sa10r/n/n2e88032906cb" target="\_blank">サンフランシスコでスタートアップに再挑戦する話</a></font>
 * <font size="3"><a href="https://signal.diamond.jp/articles/-/673" target="\_blank">Snapに認められた日本人起業家、交換日記アプリ「Waffle」で世界に挑む</a></font>
