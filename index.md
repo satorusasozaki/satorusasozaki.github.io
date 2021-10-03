@@ -6,7 +6,7 @@ layout: default
 <script src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.1/dist/mailtoui-min.js"></script>
 
 <strong><font size="5">Satoru Sasozaki</font></strong><br>
-I am the creator of @<a href="https://www.wafflejournal.com/" target="\_blank">wafflejournal</a>, a group journal app to stay closer to the people you care about most. Previously, I worked at <a href="http://blog.waygoapp.com/why-evaluating-machine-translation-quality-is-hard/" target="\_blank">@waygo</a> as a software engineer intern.
+I am the creator of <a href="https://www.wafflejournal.com/" target="\_blank">@wafflejournal</a> (<a href="https://www.adweek.com/media/snap-introduces-the-4th-class-in-its-yellow-accelerator-program/" target="\_blank">Snap Yellow '21</a>), a group journal app to stay closer to the people you care about most. Previously, I worked at <a href="http://blog.waygoapp.com/why-evaluating-machine-translation-quality-is-hard/" target="\_blank">@waygo</a> as a software engineer intern.
 Born and raised in <a href="https://www.youtube.com/watch?v=Aq2HS2pviD8&t=48s" target="\_blank">Osaka</a>, Japan. Currently based in San Francisco, California.
 
 <strong><font size="4">哘崎 悟</font></strong><br><font size="3">
