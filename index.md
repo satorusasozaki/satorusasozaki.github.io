@@ -17,7 +17,7 @@ I am the creator of <a href="https://www.wafflejournal.com/" target="\_blank">@w
 <strong><font size="4">哘崎 悟</font></strong><br><font size="3">
 さっそです。世界中の人に貢献できるサービスを目指してアメリカで奮闘中です。
 * <font size="3"><a href="https://note.com/sa10r/n/n5902417a57c0" target="\_blank">アメリカで始めたC向けスタートアップがSnapから出資を受ける - note</a></font>
-* <font size="3"><a href="https://www.nikkei.com/article/DGXZQOUF160PD0W2A011C2000000/" target="\_blank">米PoppyAIのCEO「メンタルケア」アプリで日本に逆上陸 - 日経新聞</a></font>
+* <font size="3"><a href="https://www.nikkei.com/article/DGXZQOUF160PD0W2A011C2000000/" target="\_blank">米PoppyAIのCEO「メンタルケア」アプリで日本に逆上陸 - 日経産業新聞</a></font>
 * <font size="3"><a href="https://news.yahoo.co.jp/articles/f990e54e71eef0d2a38c7bbe0e8ca87fbeb2b991" target="\_blank">世界的企業が認めた"交換日記"アプリ - Abema</a></font>
   
 
