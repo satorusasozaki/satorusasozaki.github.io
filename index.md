@@ -6,7 +6,7 @@ layout: default
 <script src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.1/dist/mailtoui-min.js"></script>
 
 <strong><font size="5">Satoru Sasozaki</font></strong><br>
-I am the creator of <a href="https://www.wafflejournal.com/" target="\_blank">@wafflejournal</a> (<a href="https://www.adweek.com/media/snap-introduces-the-4th-class-in-its-yellow-accelerator-program/" target="\_blank">Snap Yellow '21</a>), a group journaling app to stay closer to the people you care about most. 
+Co-founder & CEO <a href="https://www.wafflejournal.com/" target="\_blank">@wafflejournal</a> (<a href="https://www.adweek.com/media/snap-introduces-the-4th-class-in-its-yellow-accelerator-program/" target="\_blank">Snap Yellow '21</a>), a group journaling app to stay closer to the people you care about most. 
 <br>
 📍 Brooklyn, New York<br>
 🏠 Osaka, Japan
