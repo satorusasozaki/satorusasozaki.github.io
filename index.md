@@ -17,12 +17,14 @@ Co-founder & CEO <a href="https://www.wafflejournal.com/" target="\_blank">@waff
 <strong><font size="4">哘崎 悟</font></strong><br><font size="3">
 さっそです。世界中の人に貢献できるサービスを目指してアメリカで奮闘中です。
 * <font size="3"><a href="https://note.com/sa10r/n/n5902417a57c0" target="\_blank">アメリカで始めたC向けスタートアップがSnapから出資を受ける - note</a></font>
-* <font size="3"><a href="https://www.nikkei.com/article/DGXZQOUF160PD0W2A011C2000000/" target="\_blank">米PoppyAIのCEO「メンタルケア」アプリで日本に逆上陸 - 日経産業新聞</a></font>
-* <font size="3"><a href="https://news.yahoo.co.jp/articles/f990e54e71eef0d2a38c7bbe0e8ca87fbeb2b991" target="\_blank">世界的企業が認めた"交換日記"アプリ - Abema</a></font>
+* <font size="3"><a href="https://www.nikkei.com/article/DGXZQOUF160PD0W2A011C2000000/" target="\_blank">「メンタルケア」アプリで日本に逆上陸 - 日経産業新聞</a></font>
+* <font size="3"><a href="https://times.abema.tv/articles/-/10037249" target="\_blank">世界的企業が認めた"交換日記"アプリ - Abema</a></font>
+* <font size="3"><a href="https://newspicks.com/news/7869792" target="\_blank">
+【実録】スナップも出資する「破天荒ジャパニーズ」がいた - Newspicks</a></font>
   
 
 <br>
-<a href="https://twitter.com/ssasozaki">Twitter</a> / <a href="https://medium.com/@satorusasozaki">Medium</a> / <font size="3"><a href="https://twitter.com/satorusasozaki"> ツイッター </a></font>
+<a href="https://twitter.com/ssasozaki">Twitter</a> | <a href="https://medium.com/@satorusasozaki">Medium</a> | <a href="https://www.linkedin.com/in/satorusasozaki/">LinkedIn</a> | <a href="https://www.facebook.com/satoru.sasozaki/">Facebook</a> | <font size="3"><a href="https://twitter.com/satorusasozaki"> ツイッター（日本語） </font>
 
 <center><sub>This Jekyll theme is created by <a href="http://chibicode.com/" target="\_blank">Shu Uesugi</a>. Thanks, Shu-San!</sub></center>
 
