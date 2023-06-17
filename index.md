@@ -28,7 +28,7 @@ Co-founder & CEO <a href="https://www.wafflejournal.com/" target="\_blank">@waff
 <a href="https://medium.com/@satorusasozaki">Medium</a> | 
 <a href="https://www.linkedin.com/in/satorusasozaki/">LinkedIn</a> | 
 <a href="https://www.facebook.com/satoru.sasozaki/">Facebook</a> | 
-<font size="3"><a href="https://twitter.com/satorusasozaki"> ツイッター（日本語）</a></font>
+<font size="3"><a href="https://twitter.com/satorusasozaki">ツイッター（日本語）</a></font>
 
 <center><sub>This Jekyll theme is created by <a href="http://chibicode.com/" target="\_blank">Shu Uesugi</a>. Thanks, Shu-San!</sub></center>
 
